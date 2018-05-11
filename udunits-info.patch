@@ -1,0 +1,42 @@
+--- udunits-2.2.26/udunits2.texi.orig	2017-05-09 21:28:38.000000000 +0200
++++ udunits-2.2.26/udunits2.texi	2018-05-11 21:44:53.412404457 +0200
+@@ -6,9 +6,9 @@
+ 
+ @settitle UDUNITS @value{VERSION} Manual
+ @c %**end of header
+-@dircategory Science
++@dircategory Scientific Software:
+ @direntry
+-* udunits-2: (udunits2).  The Unidata package for units of physical quantities.
++* udunits-2: (udunits2).		The Unidata package for units of physical quantities
+ @end direntry
+ @copying
+ @include COPYRIGHT
+--- udunits-2.2.26/lib/udunits2lib.texi.orig	2017-05-09 21:28:38.000000000 +0200
++++ udunits-2.2.26/lib/udunits2lib.texi	2018-05-11 21:46:35.035736629 +0200
+@@ -3,9 +3,9 @@
+ @setfilename udunits2lib.info
+ @settitle The UDUNITS-2 C API Guide
+ @c %**end of header
+-@dircategory Software libraries
++@dircategory Libraries:
+ @direntry
+-* UDUNITS-2: (udunits2lib).     The Unidata units library.
++* UDUNITS-2: (udunits2lib).		The Unidata units library
+ @end direntry
+ @syncodeindex fn cp
+ @syncodeindex tp cp
+--- udunits-2.2.26/prog/udunits2prog.texi.orig	2017-05-09 21:28:38.000000000 +0200
++++ udunits-2.2.26/prog/udunits2prog.texi	2018-05-11 21:46:54.672403071 +0200
+@@ -3,9 +3,9 @@
+ @setfilename udunits2prog.info
+ @settitle udunits2 Program Guide
+ @c %**end of header
+-@dircategory Science
++@dircategory Scientific software:
+ @direntry
+-* udunits2: (udunits2prog).     The Unidata units-conversion program.
++* udunits2: (udunits2prog).		The Unidata units-conversion program
+ @end direntry
+ @copying
+ @include COPYRIGHT
