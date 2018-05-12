@@ -17,6 +17,7 @@ URL:		https://www.unidata.ucar.edu/software/udunits/
 BuildRequires:	CUnit
 BuildRequires:	expat-devel >= 1.95
 BuildRequires:	texinfo
+Requires(post,postun):	/sbin/ldconfig
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
